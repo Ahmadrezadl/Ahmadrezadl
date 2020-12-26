@@ -1,8 +1,6 @@
-# DL is HERE =)
-## Some of my projects: <a href="http://ahmadrezadl.github.io">Github Page</a><br>
+## DL is HERE =)
+Some of my projects: <a href="http://ahmadrezadl.github.io">Github Page</a><br>
 
-
-# Contact Me:
 <p align='center'>
   
   <a href="https://www.telegram.me/ahmadrezadl">
